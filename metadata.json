@@ -1,0 +1,7 @@
+{
+  "name": "AgriMind Farm Assistant",
+  "description": "An AI-powered farm assistant that provides expert advice on crop selection, livestock management, and budget planning to help farmers maximize productivity and profitability.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
